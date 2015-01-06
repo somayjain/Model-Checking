@@ -1,0 +1,13 @@
+TODOs -
+
+From Meeting in December -
+
+	Immediate Todos - 
+		* Look out online for more spin benchmark programs, see how much can we achieve from a single system
+		* Setup a map-reduce framework on amazon cloud
+
+	More -
+		* Analyse map-reduce vs multicore performance
+		* Read/Work on auto scaling of resources
+		* Improvements in Map/reduce algorithms
+		* Improvements in Core algorithms for model checking
